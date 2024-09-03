@@ -1,0 +1,1 @@
+With the code we take the free StatsBomb data for Copa America 2024 and create a calendar, download all the data for each match, create a player statistic and generate a very basic pdf report. This is a Sports Data campus task
